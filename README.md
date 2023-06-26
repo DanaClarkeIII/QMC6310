@@ -1,4 +1,4 @@
-# QMC6310U
-QMC6310U 3-Axis Hall Sensor Arduino Library
+# QMC6310
+QMC6310 3-Axis Hall Sensor Arduino Library
 
-Please read the libraries' documentation PDF: QMC6310U Arduino Library Documentation.pdf
+Please read the libraries' documentation PDF: QMC6310 Arduino Library Documentation.pdf
